@@ -1,3 +1,3 @@
 function Saludar (argument) {
-	alert("hola");
+	alert($("p"));
 }
